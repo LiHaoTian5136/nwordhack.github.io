@@ -15003,11 +15003,11 @@ return d.jsxs("nav", {
                         className: "text-5xl md:text-7xl font-bold mb-6 leading-tight",
                         children: ["Unleash Your", d.jsx("br", {}), d.jsx("span", {
                             className: "gradient-text",
-                            children: "Ultimate Power"
+                            children: "FREAK"
                         })]
                     }), d.jsx("p", {
                         className: "text-gray-400 text-lg mb-8 max-w-3xl mx-auto",
-                        children: "nigga hack delivers joy to its users because uh its good"
+                        children: "nigga hack delivers joy to its users because of its quality"
                     }), d.jsxs("div", {
                         className: "flex flex-col sm:flex-row gap-4 justify-center",
                         children: [d.jsxs("button", {
