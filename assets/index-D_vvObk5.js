@@ -15204,8 +15204,8 @@ return d.jsxs("nav", {
                     children: "Showcases"
                 }), d.jsxs("p", {
                     className: "text-gray-400 max-w-2xl mx-auto px-4",
-                    children: ["Watch Saint Admin in action through our collection of showcase videos. Check out more on our ", d.jsx("a", {
-                        href: "https://www.youtube.com/@SaintAdminTeam",
+                    children: ["More showcases of niggahack soon on our ", d.jsx("a", {
+                        href: "https://www.youtube.com/@niggahack",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         className: "text-red-500 hover:text-red-400",
@@ -15279,38 +15279,14 @@ return d.jsxs("nav", {
                 icon: d.jsx(U1, {
                     className: "w-6 h-6 text-red-500"
                 }),
-                title: "External Executors",
-                description: "The use of any third-party executors is strictly forbidden. Violations will result in an immediate blacklist."
+                title: "sharing",
+                description: "dont leak your key pls"
             }, {
                 icon: d.jsx(us, {
                     className: "w-6 h-6 text-red-500"
                 }),
-                title: "Game/Player Abuse",
-                description: "The use of abusive scripts, like server destroyers or any actions that disrupt gameplay for others, is strictly prohibited."
-            }, {
-                icon: d.jsx(ls, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "Banning / Masskicking",
-                description: "The use of scripts or commands to ban or mass kick users without valid reason is strictly prohibited."
-            }, {
-                icon: d.jsx(P1, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "Admin Presence",
-                description: "Running scripts while admin/developer is in the game will shutdown the game because the developer thinks the game is broken."
-            }, {
-                icon: d.jsx(V1, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "NSFW Content",
-                description: "NSFW scripts (Like neko, cat girl, or furry.) is strictly against our TOS."
-            }, {
-                icon: d.jsx(lm, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "Game Integrity",
-                description: "Respect game mechanics and other players. Any form of exploitation or harassment will not be tolerated."
+                title: "no patch or somethinbg smh",
+                description: "dont tell owners if u see them that um this exists type shit cuz fyneshit will patch"
             }],
             t = {
                 hidden: {
