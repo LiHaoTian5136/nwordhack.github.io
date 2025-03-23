@@ -17108,7 +17108,7 @@ const $P = () => {
                 icon: d.jsx(J1, {
                     className: "w-5 h-5"
                 }),
-                href: "https://www.youtube.com/@SaintAdminTeam"
+                href: "https://www.youtube.com/@niggahack"
             }],
             t = {
                 "Quick Links": [{
