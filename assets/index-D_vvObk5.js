@@ -15057,10 +15057,10 @@ return d.jsxs("nav", {
     },
 Mk = () => {
     const e = [{
-        name: "Exclusive",
+        name: "niggahack",
         price: "500 R$",
         popular: !0,
-        features: ["Everything in Basic", "Priority Support", "Exclusive Games", "Early Access", "Special Commands", "And more!"],
+        features: ["Games. Good games. Like Brookhaven","fineshyt will crawl for you if you tell them you have niggahack","freaky owners","good features","and more i think"],
         icon: d.jsx(A1, {
             className: "w-6 h-6"
         })
@@ -15096,7 +15096,7 @@ Mk = () => {
                         className: "absolute -top-4 left-1/2 transform -translate-x-1/2",
                         children: d.jsx("span", {
                             className: "bg-gradient-to-r from-red-500 to-red-700 text-sm px-4 py-1 rounded-full font-medium shadow-lg shadow-red-500/25",
-                            children: "Most Popular"
+                            children: "most popular in ghetto"
                         })
                     }), d.jsxs("div", {
                         className: "flex items-center gap-3 mb-4",
