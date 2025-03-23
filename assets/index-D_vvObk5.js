@@ -15058,7 +15058,7 @@ return d.jsxs("nav", {
 Mk = () => {
     const e = [{
         name: "niggahack",
-        price: "500 R$",
+        price: "5$",
         popular: !0,
         features: ["Games. Good games. Like Brookhaven","fineshyt will crawl for you if you tell them you have niggahack","freaky owners","good features","and more i think"],
         icon: d.jsx(A1, {
