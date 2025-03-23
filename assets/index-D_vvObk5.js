@@ -15057,13 +15057,6 @@ return d.jsxs("nav", {
     },
     Mk = () => {
         const e = [{
-            name: "Basic",
-            price: "300 R$",
-            features: ["Good and Clean UI", "Fast Execution", "Good Games", "Basic Support", "Regular Updates", "And More!"],
-            icon: d.jsx(Y1, {
-                className: "w-6 h-6"
-            })
-        }, {
             name: "Exclusive",
             price: "500 R$",
             popular: !0,
