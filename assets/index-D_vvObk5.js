@@ -14711,7 +14711,7 @@ return d.jsxs("nav", {
                             scale: .95
                         },
                         children: d.jsx("a", {
-                            href: "https://discord.gg/serversidez",
+                            href: "https://discord.gg/RJR2ggXeKN",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 px-6 py-2 rounded-lg transition-all transform hover:shadow-red-500/25 hover:shadow-lg",
@@ -15007,7 +15007,7 @@ return d.jsxs("nav", {
                         })]
                     }), d.jsx("p", {
                         className: "text-gray-400 text-lg mb-8 max-w-3xl mx-auto",
-                        children: "nigga hack delivers unparalleled administrative capabilities with a sleek, modern interface. Take control of your gaming experience like never before."
+                        children: "nigga hack delivers joy to its users because uh its good"
                     }), d.jsxs("div", {
                         className: "flex flex-col sm:flex-row gap-4 justify-center",
                         children: [d.jsxs("button", {
@@ -17128,7 +17128,7 @@ const $P = () => {
                     path: "/showcases"
                 }, {
                     name: "Discord",
-                    href: "https://discord.gg/serversidez"
+                    href: "https://discord.gg/RJR2ggXeKN"
                 }],
                 Legal: [{
                     name: "Terms of Service",
