@@ -14930,30 +14930,30 @@ const _0 = ({
                     },
                     children: [d.jsxs("h2", {
                         className: "text-4xl font-bold mb-4",
-                        children: ["Market leading serverside,", d.jsx("br", {}), d.jsx("span", {
+                        children: ["best freaky script,", d.jsx("br", {}), d.jsx("span", {
                             className: "gradient-text",
                             children: "developed by the best!"
                         })]
                     }), d.jsx("p", {
                         className: "text-gray-400 mb-8",
-                        children: "We can proudly say Saint Admin leads the serverside market with its unrivalled features. Our development team has over 4 years of experience to ensure users get an unparalleled experience."
+                        children: "yea uhh idk nigga hack on top idk"
                     }), d.jsxs("div", {
                         className: "grid grid-cols-2 gap-8",
                         children: [d.jsxs("div", {
                             children: [d.jsx("h3", {
                                 className: "text-3xl font-bold gradient-text",
-                                children: "99K+"
+                                children: "55+"
                             }), d.jsx("p", {
                                 className: "text-gray-400",
-                                children: "games logged across our library"
+                                children: "games supported in nigga hack"
                             })]
                         }), d.jsxs("div", {
                             children: [d.jsx("h3", {
                                 className: "text-3xl font-bold gradient-text",
-                                children: "50K+"
+                                children: "5"
                             }), d.jsx("p", {
                                 className: "text-gray-400",
-                                children: "active users and growing"
+                                children: "freaky users and growing 💔💔"
                             })]
                         })]
                     })]
