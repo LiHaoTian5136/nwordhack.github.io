@@ -17181,7 +17181,7 @@ const $P = () => {
                             children: [d.jsxs("div", {
                                 className: "flex items-center mb-6",
                                 children: [d.jsx("img", {
-                                    src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
+                                    src: "https://raw.githubusercontent.com/LiHaoTian5136/nwordhack.github.io/main/GRIM.png",
                                     alt: "nigga hack Logo",
                                     className: "h-12 w-12 rounded-full"
                                 }), d.jsx("span", {
@@ -17190,7 +17190,7 @@ const $P = () => {
                                 })]
                             }), d.jsx("p", {
                                 className: "text-gray-400 mb-6 max-w-md",
-                                children: "The most powerful and user-friendly Roblox admin panel, providing you with ultimate control and seamless execution."
+                                children: "the freakiest script"
                             }), d.jsx("div", {
                                 className: "flex space-x-4",
                                 children: e.map((i, o) => d.jsx(A.a, {
