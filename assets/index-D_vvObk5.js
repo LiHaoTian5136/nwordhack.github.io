@@ -15156,7 +15156,7 @@ Mk = () => {
                 children: "Pricing"
             }), d.jsx("p", {
                 className: "text-gray-400 max-w-2xl mx-auto px-4",
-                children: "Our various licenses have the cheapest prices for the highest amount of features. We offer the largest collection of games out of any other serverside on the market."
+                children: "cheap and affordable so you ghetto users can afford it 🤎"
             })]
         }), d.jsx(Mk, {})]
     }),
