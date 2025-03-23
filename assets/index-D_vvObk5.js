@@ -14966,118 +14966,31 @@ return d.jsxs("nav", {
             })
         })
     }),
-    Nk = () => {
-        const e = pu(),
-            t = [{
-                icon: d.jsx(ls, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "its good",
-                description: "yep vouch im the word"
-            }, {
-                icon: d.jsx(cm, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "made in china",
-                description: "high quality"
-            }, {
-                icon: d.jsx(zr, {
-                    className: "w-6 h-6 text-red-500"
-                }),
-                title: "ghetto approved",
-                description: "says enough"
-            }];
-        return d.jsxs("div", {
-            className: "min-h-screen",
-            children: [d.jsx("div", {
-                className: "pt-32 pb-20 px-4 relative overflow-hidden",
-                children: d.jsxs("div", {
-                    className: "max-w-7xl mx-auto text-center relative z-10",
-                    children: [d.jsx("div", {
-                        className: "inline-block mb-4 px-4 py-1 bg-gradient-to-r from-red-500/20 to-red-700/20 rounded-full",
-                        children: d.jsx("span", {
-                            className: "text-red-500 font-medium",
-                            children: "the freakiest script"
-                        })
-                    }), d.jsxs("h1", {
-                        className: "text-5xl md:text-7xl font-bold mb-6 leading-tight",
-                        children: ["Unleash Your", d.jsx("br", {}), d.jsx("span", {
-                            className: "gradient-text",
-                            children: "Ultimate Power"
-                        })]
-                    }), d.jsx("p", {
-                        className: "text-gray-400 text-lg mb-8 max-w-3xl mx-auto",
-                        children: "nigga hack delivers joy to its users because uh its good"
-                    }), d.jsxs("div", {
-                        className: "flex flex-col sm:flex-row gap-4 justify-center",
-                        children: [d.jsxs("button", {
-                            onClick: () => e("/pricing"),
-                            className: "group bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 px-8 py-4 rounded-xl font-medium transition-all flex items-center justify-center gap-2 red-glow",
-                            children: ["Get Started", d.jsx(N1, {
-                                className: "w-5 h-5 group-hover:translate-x-1 transition-transform"
-                            })]
-                        }), d.jsx("a", {
-                            href: "https://discord.gg/RJR2ggXeKN",
-                            target: "_blank",
-                            rel: "noopener noreferrer",
-                            className: "bg-gradient-to-r from-white/5 to-white/10 hover:from-white/10 hover:to-white/15 px-8 py-4 rounded-xl font-medium transition-all",
-                            children: "Join Discord"
-                        })]
-                    })]
-                })
-            }), d.jsx(Ek, {}), d.jsxs("div", {
-                className: "py-20 px-4 relative",
-                children: [d.jsxs("h2", {
-                    className: "text-4xl font-bold text-center mb-12",
-                    children: ["Powerful ", d.jsx("span", {
-                        className: "gradient-text",
-                        children: "Features"
-                    })]
-                }), d.jsx("div", {
-                    className: "max-w-7xl mx-auto",
-                    children: d.jsx("div", {
-                        className: "grid md:grid-cols-3 gap-8",
-                        children: t.map((n, r) => d.jsxs("div", {
-                            className: "feature-card",
-                            children: [d.jsx("div", {
-                                className: "bg-gradient-to-br from-red-500/10 to-red-700/10 w-12 h-12 rounded-lg flex items-center justify-center mb-6",
-                                children: n.icon
-                            }), d.jsx("h3", {
-                                className: "text-xl font-bold mb-4",
-                                children: n.title
-                            }), d.jsx("p", {
-                                className: "text-gray-400",
-                                children: n.description
-                            })]
-                        }, r))
-                    })
-                })]
-            }), d.jsx(Tk, {})]
+const Mk = () => {
+    const e = [{
+        name: "Exclusive",
+        price: "500 R$",
+        popular: !0,
+        features: ["Everything in Basic", "Priority Support", "Exclusive Games", "Early Access", "Special Commands", "And more!"],
+        icon: d.jsx(A1, {
+            className: "w-6 h-6"
         })
-    },
-    Mk = () => {
-        const e = [{
-            name: "Exclusive",
-            price: "500 R$",
-            popular: !0,
-            features: ["Everything in Basic", "Priority Support", "Exclusive Games", "Early Access", "Special Commands", "And more!"],
-            icon: d.jsx(A1, {
-                className: "w-6 h-6"
-            })
-        }];
-        return d.jsxs("div", {
-            className: "py-20 px-4 relative overflow-hidden",
-            children: [d.jsxs("div", {
-                className: "absolute inset-0 pointer-events-none",
-                children: [d.jsx("div", {
-                    className: "absolute top-1/4 left-0 w-72 h-72 bg-red-500/10 rounded-full filter blur-3xl"
-                }), d.jsx("div", {
-                    className: "absolute bottom-1/4 right-0 w-72 h-72 bg-red-500/10 rounded-full filter blur-3xl"
-                })]
+    }];
+    return d.jsxs("div", {
+        className: "py-20 px-4 relative overflow-hidden",
+        children: [d.jsxs("div", {
+            className: "absolute inset-0 pointer-events-none",
+            children: [d.jsx("div", {
+                className: "absolute top-1/4 left-0 w-72 h-72 bg-red-500/10 rounded-full filter blur-3xl"
             }), d.jsx("div", {
-                className: "max-w-7xl mx-auto relative z-10",
+                className: "absolute bottom-1/4 right-0 w-72 h-72 bg-red-500/10 rounded-full filter blur-3xl"
+            })]
+        }), d.jsx("div", {
+            className: "max-w-7xl mx-auto relative z-10",
+            children: d.jsx("div", {
+                className: "flex justify-center", // Center the grid container
                 children: d.jsx("div", {
-                    className: "grid md:grid-cols-2 gap-8 max-w-4xl mx-auto",
+                    className: "grid md:grid-cols-1 gap-8 max-w-2xl", // Adjusted grid to 1 column and max-width
                     children: e.map((t, n) => d.jsxs(A.div, {
                         initial: {
                             opacity: 0,
@@ -15090,7 +15003,7 @@ return d.jsxs("nav", {
                         transition: {
                             delay: n * .2
                         },
-                        className: `relative group ${t.popular?"bg-gradient-to-br from-[#1a1a1a]/80 to-red-900/20":"bg-[#1a1a1a]/60"} backdrop-blur-xl rounded-2xl p-8 border-2 transition-all duration-300 hover:scale-105 ${t.popular?"border-red-500/50 hover:border-red-500":"border-red-500/20 hover:border-red-500/50"}`,
+                        className: `relative group ${t.popular ? "bg-gradient-to-br from-[#1a1a1a]/80 to-red-900/20" : "bg-[#1a1a1a]/60"} backdrop-blur-xl rounded-2xl p-8 border-2 transition-all duration-300 hover:scale-105 ${t.popular ? "border-red-500/50 hover:border-red-500" : "border-red-500/20 hover:border-red-500/50"}`,
                         children: [t.popular && d.jsx("div", {
                             className: "absolute -top-4 left-1/2 transform -translate-x-1/2",
                             children: d.jsx("span", {
@@ -15100,7 +15013,7 @@ return d.jsxs("nav", {
                         }), d.jsxs("div", {
                             className: "flex items-center gap-3 mb-4",
                             children: [d.jsx("div", {
-                                className: `p-3 rounded-xl ${t.popular?"bg-gradient-to-br from-red-500/20 to-red-700/20 text-red-500":"bg-red-500/10 text-red-500/80"}`,
+                                className: `p-3 rounded-xl ${t.popular ? "bg-gradient-to-br from-red-500/20 to-red-700/20 text-red-500" : "bg-red-500/10 text-red-500/80"}`,
                                 children: t.icon
                             }), d.jsx("h3", {
                                 className: "text-2xl font-bold",
@@ -15117,7 +15030,7 @@ return d.jsxs("nav", {
                             children: t.features.map((r, i) => d.jsxs("div", {
                                 className: "flex items-center gap-3",
                                 children: [d.jsx("div", {
-                                    className: `rounded-full p-1 ${t.popular?"bg-red-500/20 text-red-500":"bg-red-500/10 text-red-500/80"}`,
+                                    className: `rounded-full p-1 ${t.popular ? "bg-red-500/20 text-red-500" : "bg-red-500/10 text-red-500/80"}`,
                                     children: d.jsx(T1, {
                                         className: "w-4 h-4"
                                     })
@@ -15130,14 +15043,15 @@ return d.jsxs("nav", {
                             href: "https://discord.gg/RJR2ggXeKN",
                             target: "_blank",
                             rel: "noopener noreferrer",
-                            className: `block w-full py-3 rounded-xl font-medium text-center transition-all ${t.popular?"bg-gradient-to-r from-red-500 to-red-700 hover:from-red-600 hover:to-red-800 text-white shadow-lg shadow-red-500/25 hover:shadow-red-500/40":"bg-white/10 hover:bg-white/20 border border-red-500/20 hover:border-red-500/40"}`,
+                            className: `block w-full py-3 rounded-xl font-medium text-center transition-all ${t.popular ? "bg-gradient-to-r from-red-500 to-red-700 hover:from-red-600 hover:to-red-800 text-white shadow-lg shadow-red-500/25 hover:shadow-red-500/40" : "bg-white/10 hover:bg-white/20 border border-red-500/20 hover:border-red-500/40"}`,
                             children: "Get Started"
                         })]
                     }, n))
                 })
-            })]
-        })
-    },
+            })
+        })]
+    });
+};
     Rk = () => d.jsxs("div", {
         className: "pt-32",
         children: [d.jsxs(A.div, {
