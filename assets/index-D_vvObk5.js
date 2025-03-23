@@ -14679,7 +14679,7 @@ return d.jsxs("nav", {
                         transition: {
                             delay: .2
                         },
-                        children: "Saint Admin"
+                        children: "nigga hack"
                     })]
                 })
             }), d.jsxs("div", {
@@ -14784,7 +14784,7 @@ return d.jsxs("nav", {
                                     delay: .4
                                 },
                                 children: d.jsx("a", {
-                                    href: "https://discord.gg/serversidez",
+                                    href: "https://discord.gg/RJR2ggXeKN",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "block px-3 py-2 text-red-500 hover:text-red-400 transition-colors",
@@ -14800,17 +14800,17 @@ return d.jsxs("nav", {
     },
     Tk = () => {
         const [e, t] = w.useState(null), n = [{
-            question: "What is Saint Admin?",
-            answer: "Saint Admin provides high-quality Roblox serverside solutions, designed to enhance your gameplay experience and execute your favorite scripts! (With added features and performance improvements.)"
+            question: "wtf is nigga hack",
+            answer: "nigga hack is good roblox script made by the ghetto"
         }, {
-            question: "How to buy?",
-            answer: "First, purchase the plan you want, then send Bombhax or someone proof of purchase. We will whitelist your account, and you can join any supported game. The user interface will appear on your screen!"
+            question: "how to buy",
+            answer: "uhh go to the /pricing thing then press the get started button and yeah"
         }, {
-            question: "Is this against the Roblox TOS?",
-            answer: "No, Serversides aren't against Roblox TOS. We also have our own TOS to ensure users do not abuse the service."
+            question: "is this agaisnt the roblox tos",
+            answer: "fuck yeah"
         }, {
-            question: "Is there any support available?",
-            answer: "Yes! We offer support in our Discord server and via email. Support email: bombhax@serverside.space."
+            question: "is there any support",
+            answer: "https://discord.gg/RJR2ggXeKN"
         }];
         return d.jsxs("div", {
             className: "py-20 px-4 relative overflow-hidden",
@@ -15007,7 +15007,7 @@ return d.jsxs("nav", {
                         })]
                     }), d.jsx("p", {
                         className: "text-gray-400 text-lg mb-8 max-w-3xl mx-auto",
-                        children: "Saint Admin delivers unparalleled administrative capabilities with a sleek, modern interface. Take control of your gaming experience like never before."
+                        children: "nigga hack delivers unparalleled administrative capabilities with a sleek, modern interface. Take control of your gaming experience like never before."
                     }), d.jsxs("div", {
                         className: "flex flex-col sm:flex-row gap-4 justify-center",
                         children: [d.jsxs("button", {
@@ -15017,7 +15017,7 @@ return d.jsxs("nav", {
                                 className: "w-5 h-5 group-hover:translate-x-1 transition-transform"
                             })]
                         }), d.jsx("a", {
-                            href: "https://discord.gg/serversidez",
+                            href: "https://discord.gg/RJR2ggXeKN",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "bg-gradient-to-r from-white/5 to-white/10 hover:from-white/10 hover:to-white/15 px-8 py-4 rounded-xl font-medium transition-all",
@@ -15134,7 +15134,7 @@ return d.jsxs("nav", {
                                 })]
                             }, i))
                         }), d.jsx("a", {
-                            href: "https://discord.gg/serversidez",
+                            href: "https://discord.gg/RJR2ggXeKN",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: `block w-full py-3 rounded-xl font-medium text-center transition-all ${t.popular?"bg-gradient-to-r from-red-500 to-red-700 hover:from-red-600 hover:to-red-800 text-white shadow-lg shadow-red-500/25 hover:shadow-red-500/40":"bg-white/10 hover:bg-white/20 border border-red-500/20 hover:border-red-500/40"}`,
@@ -16539,7 +16539,7 @@ const $P = () => {
         const [e, t] = w.useState([{
             id: "1",
             name: "Script 1",
-            code: 'print("Saint Admin on top!")'
+            code: 'print("nigga hack on top!")'
         }]), [n, r] = w.useState("1"), i = ((y = e.find(v => v.id === n)) == null ? void 0 : y.code) || "", o = () => {
             console.log("Executing code:", i)
         }, s = () => {
@@ -17006,7 +17006,7 @@ const $P = () => {
                         onClick: () => r("/"),
                         children: [d.jsx(A.img, {
                             src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
-                            alt: "Saint Admin Logo",
+                            alt: "nigga hack logo",
                             className: "h-10 w-10 rounded-full",
                             whileHover: {
                                 rotate: 360
@@ -17016,7 +17016,7 @@ const $P = () => {
                             }
                         }), d.jsx("span", {
                             className: "text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700",
-                            children: "Saint Admin"
+                            children: "nigga hack"
                         })]
                     }), d.jsx("div", {
                         className: "space-y-2",
@@ -17182,11 +17182,11 @@ const $P = () => {
                                 className: "flex items-center mb-6",
                                 children: [d.jsx("img", {
                                     src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
-                                    alt: "Saint Admin Logo",
+                                    alt: "nigga hack Logo",
                                     className: "h-12 w-12 rounded-full"
                                 }), d.jsx("span", {
                                     className: "ml-3 text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700",
-                                    children: "Saint Admin"
+                                    children: "nigga hack"
                                 })]
                             }), d.jsx("p", {
                                 className: "text-gray-400 mb-6 max-w-md",
@@ -17251,7 +17251,7 @@ const $P = () => {
                         className: "mt-12 pt-8 border-t border-red-500/10 text-center",
                         children: d.jsxs("p", {
                             className: "text-gray-400",
-                            children: ["© ", new Date().getFullYear(), " Saint Admin. All rights reserved."]
+                            children: ["© ", new Date().getFullYear(), " nigga hack. All rights reserved."]
                         })
                     })]
                 })
