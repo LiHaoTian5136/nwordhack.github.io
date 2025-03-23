@@ -14920,7 +14920,7 @@ return d.jsxs("nav", {
                     },
                     children: [d.jsxs("h2", {
                         className: "text-4xl font-bold mb-4",
-                        children: ["best freaky script,", d.jsx("br", {}), d.jsx("span", {
+                        children: ["the freakiest script,", d.jsx("br", {}), d.jsx("span", {
                             className: "gradient-text",
                             children: "developed by the best!"
                         })]
