@@ -15363,7 +15363,7 @@ Mk = () => {
                     children: d.jsxs("p", {
                         className: "text-gray-400",
                         children: ["Have questions about our Terms of Service?", " ", d.jsxs("a", {
-                            href: "mailto:serverside@serverside.space",
+                            href: "https://discord.gg/RJR2ggXeKN",
                             className: "text-red-500 hover:text-red-400 inline-flex items-center gap-1 group",
                             children: ["Contact us", d.jsx(L1, {
                                 className: "w-4 h-4 transform group-hover:translate-x-1 transition-transform"
@@ -15423,7 +15423,7 @@ Mk = () => {
                     className: "w-6 h-6 text-red-500"
                 }),
                 title: "Contact Us",
-                content: "If you have any questions about our Privacy Policy, please contact us at serverside@serverside.space"
+                content: "If you have any questions about our Privacy Policy, please contact us at https://discord.gg/RJR2ggXeKN"
             }],
             t = {
                 hidden: {
