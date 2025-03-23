@@ -14656,8 +14656,8 @@ return d.jsxs("nav", {
                     to: "/",
                     className: "flex items-center group",
                     children: [d.jsx(A.img, {
-                        src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
-                        alt: "Saint Admin Logo",
+                        src: "https://raw.githubusercontent.com/LiHaoTian5136/nwordhack.github.io/main/GRIM.png",
+                        alt: "nigga hack",
                         className: "h-10 w-10 rounded-full",
                         whileHover: {
                             rotate: 360
