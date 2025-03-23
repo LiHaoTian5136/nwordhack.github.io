@@ -15162,7 +15162,11 @@ Mk = () => {
     }),
     Ak = [{
         videoId: "eHIj1vFEBxg",
-        thumbnail: "https://i.ytimg.com/vi/eHIj1vFEBxg/hqdefault.jpg"
+        thumbnail: "https://i.ytimg.com/vi/eHIj1vFEBxg/maxresdefault.jpg"
+    },
+    {
+        videoId: "Qp4NluQy19g",
+        thumbnail: "https://i.ytimg.com/vi/Qp4NluQy19g/maxresdefault.jpg"     
     }],
     Lk = () => {
         const [e, t] = w.useState(null);
