@@ -15331,7 +15331,7 @@ return d.jsxs("nav", {
                         children: "Terms of Service"
                     }), d.jsx("p", {
                         className: "text-gray-400 max-w-2xl mx-auto",
-                        children: "Please read these terms carefully before using our services."
+                        children: "pls read this before using niggahack its short you can do it i believe in you"
                     })]
                 }), d.jsx(A.div, {
                     variants: t,
