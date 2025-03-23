@@ -14972,20 +14972,20 @@ return d.jsxs("nav", {
                 icon: d.jsx(ls, {
                     className: "w-6 h-6 text-red-500"
                 }),
-                title: "Secure & Reliable",
-                description: "Built with security in mind, ensuring your experience is safe and stable"
+                title: "its good",
+                description: "yep vouch im the word"
             }, {
                 icon: d.jsx(cm, {
                     className: "w-6 h-6 text-red-500"
                 }),
-                title: "Lightning Fast",
-                description: "Instant script execution with zero lag or delay"
+                title: "made in china",
+                description: "high quality"
             }, {
                 icon: d.jsx(zr, {
                     className: "w-6 h-6 text-red-500"
                 }),
-                title: "Advanced Features",
-                description: "Packed with powerful tools and capabilities for ultimate control"
+                title: "ghetto approved",
+                description: "says enough"
             }];
         return d.jsxs("div", {
             className: "min-h-screen",
@@ -14997,7 +14997,7 @@ return d.jsxs("nav", {
                         className: "inline-block mb-4 px-4 py-1 bg-gradient-to-r from-red-500/20 to-red-700/20 rounded-full",
                         children: d.jsx("span", {
                             className: "text-red-500 font-medium",
-                            children: "The Future of Roblox Admin"
+                            children: "the freakiest script"
                         })
                     }), d.jsxs("h1", {
                         className: "text-5xl md:text-7xl font-bold mb-6 leading-tight",
