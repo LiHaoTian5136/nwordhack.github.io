@@ -14640,95 +14640,85 @@ const _0 = ({
                     }
                 }
             };
-        return d.jsxs("nav", {
-            className: `fixed w-full z-50 transition-all duration-300 ${n?"bg-gradient-to-b from-[#0a0a0a]/95 to-[#1a0000]/95 backdrop-blur-lg shadow-lg shadow-red-500/5":"bg-transparent"}`,
-            children: [d.jsx("div", {
-                className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
-                children: d.jsxs("div", {
-                    className: "flex justify-between h-16 items-center",
-                    children: [d.jsx(A.div, {
+return d.jsxs("nav", {
+    className: `fixed w-full z-50 transition-all duration-300 ${n ? "bg-gradient-to-b from-[#0a0a0a]/95 to-[#1a0000]/95 backdrop-blur-lg shadow-lg shadow-red-500/5" : "bg-transparent"}`,
+    children: [d.jsx("div", {
+        className: "max-w-7xl mx-auto px-4 sm:px-6 lg:px-8",
+        children: d.jsxs("div", {
+            className: "flex justify-between h-16 items-center",
+            children: [d.jsx(A.div, {
+                initial: "initial",
+                animate: "animate",
+                whileHover: "hover",
+                whileTap: "tap",
+                variants: o,
+                children: d.jsxs(Bn, {
+                    to: "/",
+                    className: "flex items-center group",
+                    children: [d.jsx(A.img, {
+                        src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
+                        alt: "Saint Admin Logo",
+                        className: "h-10 w-10 rounded-full",
+                        whileHover: {
+                            rotate: 360
+                        },
+                        transition: {
+                            duration: .8,
+                            ease: "easeInOut"
+                        }
+                    }), d.jsx(A.span, {
+                        className: "ml-3 text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700",
+                        initial: {
+                            opacity: 0,
+                            x: -20
+                        },
+                        animate: {
+                            opacity: 1,
+                            x: 0
+                        },
+                        transition: {
+                            delay: .2
+                        },
+                        children: "Saint Admin"
+                    })]
+                })
+            }), d.jsxs("div", {
+                className: "hidden md:flex items-center space-x-8",
+                children: [
+                    ["Home", "Pricing", "Showcases"].map((a, l) => d.jsx(A.div, {
+                        custom: l,
+                        variants: s,
                         initial: "initial",
                         animate: "animate",
                         whileHover: "hover",
-                        whileTap: "tap",
-                        variants: o,
                         children: d.jsxs(Bn, {
-                            to: "/",
-                            className: "flex items-center group",
-                            children: [d.jsx(A.img, {
-                                src: "https://cdn.discordapp.com/icons/1304868625001480372/365172bc8b171ce63cb63a84316fc049.webp?size=512&format=webp",
-                                alt: "Saint Admin Logo",
-                                className: "h-10 w-10 rounded-full",
-                                whileHover: {
-                                    rotate: 360
-                                },
-                                transition: {
-                                    duration: .8,
-                                    ease: "easeInOut"
-                                }
-                            }), d.jsx(A.span, {
-                                className: "ml-3 text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-700",
-                                initial: {
-                                    opacity: 0,
-                                    x: -20
-                                },
-                                animate: {
-                                    opacity: 1,
-                                    x: 0
-                                },
-                                transition: {
-                                    delay: .2
-                                },
-                                children: "Saint Admin"
+                            to: a === "Home" ? "/" : `/${a.toLowerCase()}`,
+                            className: "text-gray-300 hover:text-white transition-colors relative group",
+                            children: [a, d.jsx("span", {
+                                className: "absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-red-500 to-red-700 transition-all duration-300 group-hover:w-full"
                             })]
                         })
-                    }), d.jsxs("div", {
-                        className: "hidden md:flex items-center space-x-8",
-                        children: [
-                            ["Home", "Pricing", "Showcases"].map((a, l) => d.jsx(A.div, {
-                                custom: l,
-                                variants: s,
-                                initial: "initial",
-                                animate: "animate",
-                                whileHover: "hover",
-                                children: d.jsxs(Bn, {
-                                    to: a === "Home" ? "/" : `/${a.toLowerCase()}`,
-                                    className: "text-gray-300 hover:text-white transition-colors relative group",
-                                    children: [a, d.jsx("span", {
-                                        className: "absolute -bottom-1 left-0 w-0 h-0.5 bg-gradient-to-r from-red-500 to-red-700 transition-all duration-300 group-hover:w-full"
-                                    })]
-                                })
-                            }, a)), d.jsx(A.div, {
-                                custom: 3,
-                                variants: s,
-                                initial: "initial",
-                                animate: "animate",
-                                whileHover: "hover",
-                                children: d.jsx(Bn, {
-                                    to: "/dashboard",
-                                    className: "text-gray-300 hover:text-white transition",
-                                    children: "Sign In"
-                                })
-                            }), d.jsx(A.div, {
-                                custom: 4,
-                                variants: s,
-                                initial: "initial",
-                                animate: "animate",
-                                whileHover: {
-                                    scale: 1.05
-                                },
-                                whileTap: {
-                                    scale: .95
-                                },
-                                children: d.jsx("a", {
-                                    href: "https://discord.gg/serversidez",
-                                    target: "_blank",
-                                    rel: "noopener noreferrer",
-                                    className: "bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 px-6 py-2 rounded-lg transition-all transform hover:shadow-red-500/25 hover:shadow-lg",
-                                    children: "Join Discord"
-                                })
-                            })
-                        ]
+                    }, a)),
+                    d.jsx(A.div, {
+                        custom: 4,
+                        variants: s,
+                        initial: "initial",
+                        animate: "animate",
+                        whileHover: {
+                            scale: 1.05
+                        },
+                        whileTap: {
+                            scale: .95
+                        },
+                        children: d.jsx("a", {
+                            href: "https://discord.gg/serversidez",
+                            target: "_blank",
+                            rel: "noopener noreferrer",
+                            className: "bg-gradient-to-r from-red-600 to-red-700 hover:from-red-700 hover:to-red-800 px-6 py-2 rounded-lg transition-all transform hover:shadow-red-500/25 hover:shadow-lg",
+                            children: "Join Discord"
+                        })
+                    })
+                ]
                     }), d.jsx(A.button, {
                         className: "md:hidden p-2",
                         onClick: () => t(!e),
