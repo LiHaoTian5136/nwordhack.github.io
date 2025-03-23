@@ -15161,23 +15161,8 @@ Mk = () => {
         }), d.jsx(Mk, {})]
     }),
     Ak = [{
-        videoId: "NMsAYmJREDg",
-        thumbnail: "https://img.youtube.com/vi/NMsAYmJREDg/maxresdefault.jpg"
-    }, {
-        videoId: "7Tnp0Tij2sM",
-        thumbnail: "https://img.youtube.com/vi/7Tnp0Tij2sM/maxresdefault.jpg"
-    }, {
-        videoId: "7W8Ahh-0mcM",
-        thumbnail: "https://img.youtube.com/vi/7W8Ahh-0mcM/maxresdefault.jpg"
-    }, {
-        videoId: "3Dn6sBMrmO0",
-        thumbnail: "https://img.youtube.com/vi/3Dn6sBMrmO0/maxresdefault.jpg"
-    }, {
-        videoId: "jMd16hYrgtA",
-        thumbnail: "https://img.youtube.com/vi/jMd16hYrgtA/maxresdefault.jpg"
-    }, {
-        videoId: "NMsAYmJREDg",
-        thumbnail: "https://img.youtube.com/vi/NMsAYmJREDg/maxresdefault.jpg"
+        videoId: "eHIj1vFEBxg",
+        thumbnail: "https://i.ytimg.com/vi/eHIj1vFEBxg/hqdefault.jpg"
     }],
     Lk = () => {
         const [e, t] = w.useState(null);
